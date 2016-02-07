@@ -15,10 +15,7 @@ _working with objects_
 *  Description of the program
 *******************************************************
 
-This program reads first input seed from user and the calculate using
-the formula that were given from book (multiplier * seed + increment) % modulus, and then
-using the answer from the first step to plug in the seed for next step and so on until the 
-pattern generated will not repeat until 729 different numbers have been produced. 
+This assignment is to implementation of the class and store the point in 3D. This class also contains the function of distance, semi and then calculate the area.
 
 
 *******************************************************
