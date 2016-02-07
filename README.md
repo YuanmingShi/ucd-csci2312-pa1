@@ -7,9 +7,9 @@ _working with objects_
 *******************************************************
 *  Name      :       Yuanming Shi   
 *  Student ID:         101913694        
-*  Class     :  	    CSC 2312           
-*  HW#       :  	        PA-1                
-*  Due Date  :  	  Jeb. 7, 2016
+*  Class     :  	CSC 2312           
+*  HW#       :  	  PA-1                
+*  Due Date  :  	 Feb. 7, 2016
 
 *******************************************************
 *  Description of the program
@@ -27,6 +27,7 @@ Name:  Point.cpp
   This one is to define the function that have declared in Point.h
 
 Name: area.cpp
+
    define the function of computearea also include point.h.
 
    
