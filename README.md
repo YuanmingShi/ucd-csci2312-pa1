@@ -28,7 +28,7 @@ Name:  Point.cpp
 
 Name: area.cpp
 
-   define the function of computearea also include point.h.
+   Define the function of computearea also include point.h.
 
    
 *******************************************************
